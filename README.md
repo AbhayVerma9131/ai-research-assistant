@@ -12,7 +12,7 @@ Extract insights from large textual data using AI.
 - Question answering  
 
 ## ⚙️ Tech Stack
-Python, Transformers, Streamlit  
+Python, Transformers, Streamlit 
 
 ## 🔬 Experimentation
 - Tested NLP models for performance  
